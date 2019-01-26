@@ -2,7 +2,7 @@
 
 ## 基本情報
 
-|             |                                                                    |
+|             | Link                                                               |
 | ----------- | ------------------------------------------------------------------ |
 | Blog        | [TAKAKING22.com](https://takaking22.com/)                          |
 | Twitter     | [@TAKAKING22](https://twitter.com/takaking22)                      |
@@ -373,6 +373,6 @@
 ## 問い合わせ先
 
 - いずれかの手段でお問い合わせ下さい
-  - [Github Issues](https://github.com/TAKAKING22/takaking22-resume/issues)
+  - [Github Issues](https://github.com/TAKAKING22/takaking22.github.io/issues/new/choose)
   - [Contact Form (E-MAIL)](https://takaking22.com/contact/)
   - または各種 SNS からご連絡下さい

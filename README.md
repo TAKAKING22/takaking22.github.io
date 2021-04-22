@@ -27,6 +27,7 @@
 | ----------- | ------------------------------------------ |
 | PHP         | 状況に応じて最適なコードが書け、指導が可能 |
 | Java        | 状況に応じて最適なプログラミングが可能     |
+| Ruby        | 状況に応じて最適なプログラミングが可能     |
 | javascript  | 状況に応じて最適なプログラミングが可能     |
 | Node.js     | 状況に応じて最適なプログラミングが可能     |
 | Shell(bash) | 状況に応じて最適なコードが書け、指導が可能 |
@@ -42,9 +43,11 @@
 | Laravel       | 状況に応じて最適なプログラミングが可能 |
 | Seaser2       | 状況に応じて最適なプログラミングが可能 |
 | Spring        | 状況に応じて最適なプログラミングが可能 |
+| Ruby on Rails | 状況に応じて最適なプログラミングが可能 |
 | jQuery        | 状況に応じて最適なプログラミングが可能 |
 | Underscore.js | 状況に応じて最適なプログラミングが可能 |
 | Angular.js    | 状況に応じて最適なプログラミングが可能 |
+| Vue.js    | 状況に応じて最適なプログラミングが可能 |
 
 ### Storage
 
@@ -60,6 +63,7 @@
 
 |           | レベル                   |
 | --------- | ------------------------ |
+| AWS       | 設計、構築、最適化が可能 |
 | Azure     | 設計、構築、最適化が可能 |
 | Jenkins   | 構築、最適化が可能       |
 | Apache    | 構築、最適化が可能       |
@@ -120,6 +124,8 @@
 - [Ultimate Agile Stories Iteration4](http://ultimateagilestories.web.fc2.com/bookcontents4.html)
 - [サムライ・エピソード](http://tatsu-zine.com/books/samurai-episodes)
 - [WEB+DB PRESS Vol.102](http://gihyo.jp/magazine/wdpress/archive/2018/vol102)
+- [アジャイル開発とスクラム第2版](https://www.shoeisha.co.jp/book/detail/9784798171524)
+
 
 ## 資格
 
@@ -137,6 +143,8 @@
   - 簡単な日常会話ができる
 
 ## 職務経歴
+
+### 2019/１０ 〜 現在 :AGILE-MONSTER.COM（個人事業主）
 
 ### 2019/07 〜 現在 : 株式会社デンソー
 
